@@ -1,2 +1,2 @@
 # GANS101
-GANS with metric
+GANS with MNIST
